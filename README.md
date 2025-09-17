@@ -19,7 +19,7 @@ Install the required dependency:pip install pygame
 
 Usage
 
-Run the game by executing the main script:python main.py
+Run the game by executing the main script:python fianl game.py
 
 
 Use the following controls:
